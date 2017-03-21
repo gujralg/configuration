@@ -1,1 +1,19 @@
 Modules
+User Management
+  General User (Login/Search)
+  Admin Users
+  Dealer (Register firm/ Individual registration under any cateogry)
+
+Dealers
+  Profile Management
+    Create Profile
+    Update work and post pictures
+    Post ad's  
+  
+Categories
+  Add/Update Categories
+
+Search
+  Filter based on categories
+  Send Mail/Msg of searched data
+  
