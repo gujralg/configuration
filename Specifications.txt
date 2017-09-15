@@ -1,1 +1,37 @@
-Modules
+Inventory Management
+
+IM
+  Login Management
+        Owner
+              All
+        Sale Executive
+              Only Sales
+        Sale and Inventory 
+		Inventory Manager
+  
+  Inventory Management
+     Define categories of Goods/Products
+     Define/update each product and any specifications like ( color/size/type)
+     Update Inventory based on PO
+     Expiry date
+     Add Bills/PO, attach image
+     Specify Dealers
+     Barcode
+     Leasing n Lending
+
+  Sales
+      Enter Daily/weekly/monthly sales
+      If GST applicable, then print bill
+      Print will without GST
+      CRM
+      Lease records for customer
+      Add any specific/general product requirement or shortage log
+      
+
+  Reporting
+       Products Backlog
+       Required Products
+       Sales Report
+       Custom Filters
+       Cross check Inventory n sales record and calculate profit/loss
+	   Most and Least selling products with graph
